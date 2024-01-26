@@ -1,0 +1,25 @@
+{
+    "code": 200,
+    "data": {
+      "total_info": [
+        {
+        "region": "ID",
+        "live_count": 9470,
+        "author_count": 4446,
+        "aweme_count": 1331,
+        "currency": "IDR",
+        "sold_count": 232289,
+        "sale_amount": 35881101426.61,
+        "sold_product_count": 314,
+        "region_name": "Indonesia",
+        "live_count_show": "9.4k",
+        "author_count_show": "4.4k",
+        "aweme_count_show": "1.3k",
+        "sold_count_show": "232.2k",
+        "sale_amount_show": "Rp35.8b",
+        "sold_product_count_show": "314"
+      }
+    ]
+    },
+    "msg": "success"
+  }
